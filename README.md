@@ -1,8 +1,6 @@
 <h1 align="center">Busra Demir</h1>
 <h3 align="center">Research Scientist | Computational Chemistry | Molecular Modeling (MD & QM) | Structure-based Design | Nanotechnology</h3>
 
-- 🌱 I’m currently learning **machine learning, neural networks**
-
 - 👯 I’m looking to collaborate on **drug design and discovery projects**
 
 - ❓ Ask me about **molecular modeling**
