@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Busra Demir</h1>
-<h3 align="center">A passionate computational chemist from Turkiye</h3>
+<h3 align="center">A passionate computational chemist</h3>
 
 - 🌱 I’m currently learning **machine learning, neural networks**
 
