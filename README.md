@@ -1,5 +1,6 @@
 <h1 align="center">Busra Demir</h1>
 <h3 align="center">Research Scientist | Computational Chemistry | Molecular Modeling (MD & QM) | Structure-based Design | Nanotechnology</h3>
+<img align = "right" alt="MD" width="400" src="https://github.com/bdemir09/python-visual/blob/main/vmdscene5.tga">
 
 - 🌱 I’m currently learning **machine learning, neural networks**
 
