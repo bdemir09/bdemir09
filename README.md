@@ -1,10 +1,11 @@
 <h1 align="center">Busra Demir</h1>
 <h3 align="center">Research Scientist | Computational Chemistry | Molecular Modeling (MD & QM) | Structure-based Design | Nanotechnology</h3>
-<img align = "right" alt="MD" width="600" src="https://upload.wikimedia.org/wikipedia/commons/f/f4/MD_water.gif">
 
 - 🌱 I’m currently learning **machine learning, neural networks**
 
 - 👯 I’m looking to collaborate on **drug design and discovery projects**
+
+- ❓ Ask me about **molecular modeling**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
