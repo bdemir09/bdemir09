@@ -1,11 +1,9 @@
-<h1 align="center">Busra Demir</h1>
-<h3 align="center">Research Scientist | Computational Chemistry | Molecular Modeling (MD & QM) | Structure-based Design | Nanotechnology</h3>
+<h1 align="center">Dr. Busra Demir Senyildiz</h1>
+<h3 align="center">Digital Materials Scientist | Computational Chemist | AI for Biomaterials & Protein Engineering</h3>
 
-- 👯 I’m looking to collaborate on **drug design and discovery projects**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/bontwee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="bontwee" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/busrademir/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/busrademir/" height="30" width="40" /></a>
 </p>
 
