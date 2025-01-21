@@ -1,7 +1,11 @@
 <h1 align="center">Dr. Busra Demir Senyildiz</h1>
 <h3 align="center">Digital Materials Scientist | Computational Chemist | AI for Biomaterials & Protein Engineering</h3>
 
-<h4 align="center">I’m a computational chemist and R&D manager specializing in nanotechnology, materials science, and AI-driven solutions. Currently, I help translate complex challenges into innovative, practical results as a Digital Materials Scientist at Unilever. With experience spanning academia and industry, I’ve applied methods like molecular dynamics, quantum mechanics, and machine learning to solve problems in materials science and biology. My goal is to drive innovation by merging digital tools with cutting-edge research to create sustainable, impactful solutions.</h4>
+<p align="left">I’m a computational chemist and R&D manager specializing in nanotechnology, materials science, and AI-driven solutions. Currently, I help translate complex challenges into innovative, practical results as a Digital Materials Scientist at Unilever. 
+
+  
+
+With experience spanning academia and industry, I’ve applied methods like molecular dynamics, quantum mechanics, and machine learning to solve problems in materials science and biology. My goal is to drive innovation by merging digital tools with cutting-edge research to create sustainable, impactful solutions.</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
