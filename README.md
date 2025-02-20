@@ -7,6 +7,23 @@
 
 With experience spanning academia and industry, I’ve applied methods like molecular dynamics, quantum mechanics, and machine learning to solve problems in materials science and biology. My goal is to drive innovation by merging digital tools with cutting-edge research to create sustainable, impactful solutions.</p>
 
+<h3 align="left">📚 Research Papers - selected as cover:</h3>
+<div style="display: flex; justify-content: space-between;">
+  <div style="text-align: left;">
+    <img src="acsnano_cover.jpg" alt="Paper 1 Cover" width="100"><br>
+    <a href="https://pubs.acs.org/doi/abs/10.1021/acsnano.3c10844">
+      Self-Aligning Nanojunctions for Integrated Single-Molecule Circuits
+    </a>
+  </div><br>
+  
+  <div style="text-align: left;">
+    <img src="nanoscalehorizons_cover.jpg" alt="Paper 2 Cover" width="100"><br>
+    <a href="https://pubs.rsc.org/en/content/articlelanding/2021/nh/d1nh00211b/unauth">
+      Role of intercalation in the electrical properties of nucleic acids for use in molecular electronics
+    </a>
+  </div>
+</div>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/busrademir/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/busrademir/" height="30" width="40" /></a>
