@@ -36,7 +36,7 @@ With experience spanning academia and industry, I’ve applied methods like mole
 <a href="https://gaussian.com/" target="_blank" rel="noreferrer"> <img src="https://pbs.twimg.com/profile_images/984801900292784129/TuHbpUEd_400x400.jpg" alt="gaussian" width="40" height="40"/> </a>
 <a href="https://vina.scripps.edu/" target="_blank" rel="noreferrer"> <img src="https://vina.scripps.edu/wp-content/uploads/sites/55/2020/12/vina_logo.png" alt="autodock" width="40" height="40"/> </a>
   
-<a href="http://www.ks.uiuc.edu/Research/vmd/" target="_blank" rel="noreferrer"> <img src="https://simverse.com/images/vmd-logo.svg" alt="vmd" width="40" height="40"/> </a>
+<a href="http://www.ks.uiuc.edu/Research/vmd/" target="_blank" rel="noreferrer"> <img src="https://floquetnicolas.wordpress.com/wp-content/uploads/2011/07/vmd.png" alt="vmd" width="40" height="40"/> </a>
 <a href="https://pymol.org/2/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/PyMOL_logo.svg/2048px-PyMOL_logo.svg.png" alt="pymol" width="40" height="40"/> </a>
 <a href="https://avogadro.cc/" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/9284941?s=280&v=4" alt="avogadro" width="40" height="40"/> </a>
 <a href="https://cadnano.org/" target="_blank" rel="noreferrer"> <img src="https://pbs.twimg.com/profile_images/1898977861/cadnano_logo_fb_twitter_400x400.png" alt="cadnano" width="40" height="40"/> </a>
