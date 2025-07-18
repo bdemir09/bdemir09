@@ -1,5 +1,5 @@
 <h1 align="center">Dr. Busra Demir Senyildiz</h1>
-<h3 align="center">Digital Materials Scientist | Computational Chemist | AI for Biomaterials & Protein Engineering</h3>
+<h3 align="center">Senior Computational Chemist | AI for Materials Discovery</h3>
 
 <p align="left">I’m a computational chemist and R&D manager specializing in nanotechnology, materials science, and AI-driven solutions. Currently, I help translate complex challenges into innovative, practical results as a Digital Materials Scientist at Unilever. 
 
